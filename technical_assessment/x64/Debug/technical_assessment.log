@@ -1,0 +1,6 @@
+﻿  bus_simulation.cpp
+C:\Dev\GitHubRepository\bus_simulation\technical_assessment\bus_simulation_functions.h(40,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Dev\GitHubRepository\bus_simulation\technical_assessment\bus_simulation_functions.h(145,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Dev\GitHubRepository\bus_simulation\technical_assessment\bus_simulation_functions.h(156,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Dev\GitHubRepository\bus_simulation\technical_assessment\bus_simulation.cpp(11,15): warning C4552: '<<': result of expression not used
+  technical_assessment.vcxproj -> C:\Dev\GitHubRepository\bus_simulation\x64\Debug\technical_assessment.exe

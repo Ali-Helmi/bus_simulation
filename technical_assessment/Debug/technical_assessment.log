@@ -1,0 +1,5 @@
+﻿  bus_simulation.cpp
+C:\Users\i3llo\Desktop\UG\Applications\internship\lucid_motors\technical_assessment\technical_assessment\bus_simulation_functions.h(25,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\i3llo\Desktop\UG\Applications\internship\lucid_motors\technical_assessment\technical_assessment\bus_simulation.cpp(11,15): warning C4552: '<<': result of expression not used
+C:\Users\i3llo\Desktop\UG\Applications\internship\lucid_motors\technical_assessment\technical_assessment\bus_simulation.cpp(45,49): error C3867: 'Bus::GetCurrentStop': non-standard syntax; use '&' to create a pointer to member
+C:\Users\i3llo\Desktop\UG\Applications\internship\lucid_motors\technical_assessment\technical_assessment\bus_simulation.cpp(45,49): error C2296: '-': illegal, left operand has type 'int (__thiscall Bus::* )(void)'
